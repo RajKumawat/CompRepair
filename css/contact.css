@@ -1,0 +1,21 @@
+span 
+{
+    font-size: 15px;
+}
+a
+{
+    color: #a8b3bd;
+}
+@media only screen and (max-width: 450px) {
+    [class*="col-md-2"] .none {
+      display: none;
+    }
+  }
+
+  @media only screen and (min-width: 450px) 
+  {
+    .lnwil a
+    {
+      pointer-events: none;
+    }
+  }

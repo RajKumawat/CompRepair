@@ -1,0 +1,8 @@
+[16-Feb-2020 20:04:06 UTC] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/w8z9f720bycv/public_html/php/subscribe.php on line 8
+[17-Feb-2020 09:12:53 UTC] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'comprepair'@'localhost' to database 'COPREPAIRDB' in /home/w8z9f720bycv/public_html/php/subscribe.php on line 8
+[17-Feb-2020 09:17:53 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/w8z9f720bycv/public_html/php/queries.php on line 8
+[17-Feb-2020 10:20:15 UTC] PHP Notice:  Undefined index: email in /home/w8z9f720bycv/public_html/php/subscribe.php on line 15
+[17-Feb-2020 10:29:32 UTC] PHP Notice:  Undefined index: email in /home/w8z9f720bycv/public_html/php/subscribe.php on line 15
+[17-Feb-2020 10:38:17 UTC] PHP Notice:  Undefined index: email in /home/w8z9f720bycv/public_html/php/subscribe.php on line 15
+[18-Feb-2020 04:19:57 UTC] PHP Notice:  Undefined index: email in /home/w8z9f720bycv/public_html/php/subscribe.php on line 15
+[18-Feb-2020 20:44:00 UTC] PHP Notice:  Undefined index: email in /home/w8z9f720bycv/public_html/php/subscribe.php on line 15

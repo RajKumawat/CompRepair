@@ -1,0 +1,16 @@
+[16-Feb-2020 17:36:21 UTC] PHP Warning:  include(../includes/header.php): failed to open stream: No such file or directory in /home/w8z9f720bycv/public_html/index.php on line 29
+[16-Feb-2020 17:36:21 UTC] PHP Warning:  include(): Failed opening '../includes/header.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/w8z9f720bycv/public_html/index.php on line 29
+[16-Feb-2020 17:36:21 UTC] PHP Warning:  include(../includes/footer.php): failed to open stream: No such file or directory in /home/w8z9f720bycv/public_html/index.php on line 288
+[16-Feb-2020 17:36:21 UTC] PHP Warning:  include(): Failed opening '../includes/footer.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/w8z9f720bycv/public_html/index.php on line 288
+[16-Feb-2020 17:37:02 UTC] PHP Warning:  include(../includes/header.php): failed to open stream: No such file or directory in /home/w8z9f720bycv/public_html/index.php on line 29
+[16-Feb-2020 17:37:02 UTC] PHP Warning:  include(): Failed opening '../includes/header.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/w8z9f720bycv/public_html/index.php on line 29
+[16-Feb-2020 17:37:02 UTC] PHP Warning:  include(../includes/footer.php): failed to open stream: No such file or directory in /home/w8z9f720bycv/public_html/index.php on line 288
+[16-Feb-2020 17:37:02 UTC] PHP Warning:  include(): Failed opening '../includes/footer.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/w8z9f720bycv/public_html/index.php on line 288
+[16-Feb-2020 17:38:48 UTC] PHP Warning:  include(../includes/header.php): failed to open stream: No such file or directory in /home/w8z9f720bycv/public_html/index.php on line 29
+[16-Feb-2020 17:38:48 UTC] PHP Warning:  include(): Failed opening '../includes/header.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/w8z9f720bycv/public_html/index.php on line 29
+[16-Feb-2020 17:38:48 UTC] PHP Warning:  include(../includes/footer.php): failed to open stream: No such file or directory in /home/w8z9f720bycv/public_html/index.php on line 288
+[16-Feb-2020 17:38:48 UTC] PHP Warning:  include(): Failed opening '../includes/footer.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/w8z9f720bycv/public_html/index.php on line 288
+[16-Feb-2020 17:40:08 UTC] PHP Warning:  include(../includes/header.php): failed to open stream: No such file or directory in /home/w8z9f720bycv/public_html/index.php on line 29
+[16-Feb-2020 17:40:08 UTC] PHP Warning:  include(): Failed opening '../includes/header.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/w8z9f720bycv/public_html/index.php on line 29
+[16-Feb-2020 17:40:08 UTC] PHP Warning:  include(../includes/footer.php): failed to open stream: No such file or directory in /home/w8z9f720bycv/public_html/index.php on line 288
+[16-Feb-2020 17:40:08 UTC] PHP Warning:  include(): Failed opening '../includes/footer.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/w8z9f720bycv/public_html/index.php on line 288

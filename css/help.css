@@ -1,0 +1,26 @@
+@media only screen and (max-width: 450px) 
+{
+      .form-controll 
+      {
+        max-width: 90%;
+      }
+    }
+
+    a 
+    {
+      color: black;
+    }
+
+    .modal 
+    {
+      margin-top: 50px;
+      margin-left: auto;
+      margin-right: auto;
+      width: 90%;
+    }
+
+    .modal-content 
+    {
+      color: black;
+      text-align: center;
+    }

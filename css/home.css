@@ -1,0 +1,22 @@
+
+.thumbnail
+{
+  border-radius:0px; 
+  height:125px;
+  font-size: 20px; 
+  padding: 10px 21px;
+  text-align: center;
+  color: white;
+}
+.thumbnail p
+{
+  margin-top: 15px;
+}
+.thumbnail.tk
+{
+  border:2px solid white;
+}
+.col-md-4
+{
+  text-align: center;
+}
